@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kolawole Oladapo (kollydap)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C530&size=22&center=true&vCenter=true&width=500&lines=Backend+Engineer;Android+Developer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C530&size=22&center=true&vCenter=true&width=500&lines=Backend+Engineer;Lifelong+Learner" />
 </p>
 
 ---
