@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - 👀 **Backend Developer** passionate about building scalable and efficient systems.  
-- ⚙️ Working with **Golang**, **Python**, **Django**, **Kotlin**, and **PostgreSQL**.  
+- ⚙️ Working with **Python**, **Django**, **Kotlin**, and **PostgreSQL**.  
 - 🌍 Open to collaborations on **Open Source Projects** and **Tech Communities**.  
 - 🧠 Learning **Design Patterns**, **Event Sourcing**, and **Microservices Architecture**.  
 - 🎯 **Interests**: Distributed Systems, DevOps, and Software Engineering Best Practices.  
